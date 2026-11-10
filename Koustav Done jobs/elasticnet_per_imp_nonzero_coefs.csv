@@ -1,0 +1,237 @@
+imp,feature,coef
+2,`pharma.pre.ADHD Index`,0.058531041144081884
+2,expressions.GRIK1,0.7730070006977557
+2,expressions.DRD4,0.3826275046413014
+2,expressions.GABRA5,0.9654547836634619
+2,`cprs-r.ADHD Index`,0.05271684842742437
+3,`pharma.pre.ADHD Index`,0.047363473315999396
+3,factor(genotype.M12)CT,0.05434941098318844
+3,expressions.GRIN2A,0.4918737263184075
+3,expressions.GRM7,0.1586333529105889
+3,expressions.DRD4,-1.3645518648148496
+3,expressions.GABRB3,-0.12400419985832745
+3,expressions.GABRG3,-0.029389161654161864
+3,expressions.GABRA5,-0.3284496091688524
+3,`cprs-r.ADHD Index`,0.197105237226674
+4,`pharma.pre.ADHD Index`,0.08840147481689495
+4,factor(genotype.M12)CT,0.03895249168775644
+4,expressions.GRIN2B,0.5949126318076986
+4,expressions.GRM6,-0.5879330068719136
+4,expressions.GRIK1,2.1914639954522785
+4,expressions.DRD4,-1.2172206401040058
+4,expressions.GABRG3,-0.09806313787536901
+4,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)UNK,-0.673611118178071
+5,`pharma.pre.ADHD Index`,0.24882094026671803
+5,factor(pharma.Drug)Atomoxetine,0.019647638802478704
+5,factor(pharma.Drug)Methylphenidate,-0.004424287642685371
+5,factor(genotype.M12)CT,1.553369271682117
+5,expressions.GRM5,0.66388211467282
+5,expressions.GRIK1,0.19036239693710955
+5,expressions.DRD4,-1.2965445376686358
+5,expressions.GABRB3,-2.030723500146412
+5,expressions.GABRG3,-0.13268285754193265
+5,`concentrations.5-HIAA`,0.22709978429624358
+5,`cprs-r.Hyperactivity`,-0.08529213723892229
+5,pharma.pre.Inattention,0.029338644737376407
+5,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)UNK,-2.5885845929775
+6,`pharma.pre.ADHD Index`,0.02223873018543469
+6,expressions.GRIA1,0.2992308283620216
+6,expressions.GRIN2B,1.1154276100420224
+6,expressions.GABRB3,-0.5250608451921913
+6,concentrations.Dopamine,0.03971560319664534
+7,`pharma.pre.ADHD Index`,0.22532090176257177
+7,factor(pharma.Drug)Atomoxetine,0.17914776765527693
+7,factor(pharma.Drug)Methylphenidate,-0.21083116411097652
+7,factor(genotype.M04)CC,-0.47513113249070066
+7,factor(genotype.M09)CT,0.07395827621942877
+7,factor(genotype.M12)CT,1.9951691469639115
+7,expressions.GRIN2A,-1.3454859825246983
+7,expressions.GRIN2B,0.33179126367460554
+7,expressions.GRM5,0.8234502069578788
+7,expressions.GRM6,0.14218874729147613
+7,expressions.GRM7,-0.3119653653889748
+7,expressions.GABRB3,-0.7971874624424209
+7,expressions.GABRA5,-1.2745098894530646
+7,`concentrations.5-HIAA`,1.7033338067295476
+7,`cprs-r.Inattention`,0.006170204027351608
+7,`cprs-r.Hyperactivity`,-0.11776368538196803
+7,pharma.pre.Inattention,0.07614114257248754
+7,factor(pharma.Drug)Methylphenidate:factor(genotype.M01)CT,0.016803673645282877
+7,factor(pharma.Drug)Methylphenidate:factor(genotype.M02)TC,-0.3902791238937083
+7,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)CC,-0.4160232205381208
+7,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)UNK,-1.651644990773649
+7,factor(pharma.Drug)Methylphenidate:factor(genotype.M21)TT,-0.5352902176792472
+7,factor(pharma.Drug)Methylphenidate:factor(genotype.M22)CT,-0.12266320528417754
+8,`pharma.pre.ADHD Index`,0.024548536884183483
+8,factor(genotype.M02)TC,-1.6286615105695725
+8,factor(genotype.M03)TT,1.1555137058076426
+8,factor(genotype.M05)CT,2.2261775965416883
+8,factor(genotype.M05)TT,-1.9104223092131642
+8,factor(genotype.M06)CT,13.95707775501767
+8,factor(genotype.M08)GT,-2.097407015884152
+8,factor(genotype.M10)AG,1.1005010513339495
+8,factor(genotype.M11)TT,0.46462632085896416
+8,factor(genotype.M12)CT,3.740611022223139
+8,factor(genotype.M21)TT,-1.1895253527263088
+8,factor(genotype.M21)UNK,7.079983089786098
+8,factor(genotype.M22)CT,-2.614077887454234
+8,factor(genotype.M22)UNK,1.7721681169605157
+8,expressions.GRIN2A,0.4693341970320003
+8,expressions.GRM6,0.33279906208734544
+8,expressions.GRM7,1.041816455188448
+8,expressions.GRIK1,2.1945273597178905
+8,expressions.DRD4,-1.7323748888718218
+8,expressions.GABRB3,1.2562822752097738
+8,expressions.GABRG3,0.6843163156581963
+8,concentrations.Serotonin,0.24487297632395977
+8,`concentrations.5-HIAA`,1.5872277284849838
+8,concentrations.Glutatamate,-0.037160416874538166
+8,concentrations.Dopamine,-0.30809070722303533
+8,concentrations.GABA,0.011195775759684386
+8,`cprs-r.Behavioral Problem`,-0.07266487690525548
+8,`cprs-r.Inattention`,0.40519679537298414
+8,`cprs-r.Hyperactivity`,-0.013565222686536215
+8,pharma.pre.Inattention,0.04966530845087811
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M01)CT,2.4780234902029377
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M02)TT,-11.760066068877515
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M03)TC,-4.64112162599799
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)CA,-0.9784215967021114
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)UNK,-9.57337798070088
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M05)TT,-1.6715715391541879
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M06)CT,10.221884665897933
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M07)GA,0.22450931928102713
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M11)TT,0.2528557732191034
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M12)CT,2.6925600467978366
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M16)CT,-4.953376103380696
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M21)CT,-2.343642976619026
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M21)TT,-3.998482198100324
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M22)CT,-2.6089807114221495
+8,factor(pharma.Drug)Methylphenidate:factor(genotype.M22)TT,-4.7557703534794316
+9,`pharma.pre.ADHD Index`,0.4575144387065988
+9,factor(genotype.M01)TT,1.235996991935458
+9,factor(genotype.M05)TT,-0.9169247334657458
+9,factor(genotype.M06)CT,1.1588304984151252
+9,factor(genotype.M07)GA,-2.747498521588831
+9,factor(genotype.M08)GT,-2.548632169942485
+9,factor(genotype.M11)CT,-2.213351696022276
+9,factor(genotype.M11)TT,0.5147171783258961
+9,factor(genotype.M12)CT,6.542835090992154
+9,factor(genotype.M21)UNK,2.2048776340014533
+9,factor(genotype.M22)CT,-1.5394522545487894
+9,factor(genotype.M22)UNK,0.21080014472703584
+9,expressions.GRIA1,1.0065539008259277
+9,expressions.GRIN2A,1.1576911246011135
+9,expressions.GRM6,-1.9231357345716227
+9,expressions.GRM7,0.0035213360913165064
+9,expressions.GRIK1,2.3798061692822654
+9,expressions.DRD4,-2.7418186484227784
+9,concentrations.Serotonin,-0.06319936830076088
+9,concentrations.Dopamine,0.03605564316292987
+9,concentrations.GABA,-0.005656915005482417
+9,`cprs-r.Hyperactivity`,-0.2830144883828356
+9,`pharma.pre.Behavorial Problem`,0.013949417642995567
+9,pharma.pre.Inattention,0.1284451823273821
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M01)TT,1.0734398271188341
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M02)TC,-3.0776225746864605
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M02)TT,4.140874605464355
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M03)TC,-2.8218763576489203
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)UNK,-3.5990755456124295
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M05)TT,-0.8821151657950792
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M06)CT,0.5373389321021388
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M08)TT,-0.5525612202869256
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M11)TT,0.28181894390311807
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M16)CT,-2.7158397046643254
+9,factor(pharma.Drug)Methylphenidate:factor(genotype.M21)TT,-1.3042618749293062
+11,`pharma.pre.ADHD Index`,0.06509664187303839
+11,factor(genotype.M12)CT,0.40063609792071747
+11,expressions.GRIA1,0.0643019480276312
+11,expressions.GRIN2A,-0.08986021537835244
+11,expressions.GRM7,0.0906244549508221
+11,expressions.GRIK1,1.4051592468948915
+11,expressions.DRD4,-0.20430597061455413
+11,concentrations.Dopamine,0.09647290149558452
+11,`cprs-r.ADHD Index`,0.06696676566304041
+11,pharma.pre.Inattention,0.01068057045641398
+13,`pharma.pre.ADHD Index`,0.059809374665483014
+13,expressions.GABRA5,-0.36348209666464604
+14,`pharma.pre.ADHD Index`,0.15042724121971127
+14,factor(genotype.M12)CT,0.03527989492310167
+14,expressions.GABRB3,-0.410352132396209
+14,concentrations.Dopamine,0.127455603237109
+14,`cprs-r.Inattention`,0.00834323309330674
+14,pharma.pre.Inattention,0.01846599640896298
+15,`pharma.pre.ADHD Index`,0.010723638484012692
+15,expressions.GABRB3,-0.15675263297407754
+15,concentrations.Dopamine,0.019975454076529287
+15,`cprs-r.ADHD Index`,0.03201333873999611
+16,`pharma.pre.ADHD Index`,0.3046234043188893
+16,factor(pharma.Drug)Atomoxetine,0.3676948703708688
+16,factor(pharma.Drug)Methylphenidate,-0.3358389644090792
+16,factor(genotype.M08)GT,-1.0160679988006025
+16,factor(genotype.M12)CT,2.404964080968592
+16,expressions.GRIA1,0.1286146643765569
+16,expressions.GRM6,-1.1632723668832643
+16,expressions.DAT,-0.24476607393062558
+16,`cprs-r.Inattention`,0.06364044199634095
+16,`cprs-r.Hyperactivity`,-0.08528434554949095
+16,`cprs-r.ADHD Index`,0.06174665380214225
+16,factor(pharma.Drug)Methylphenidate:factor(genotype.M01)CT,0.5493136170202998
+16,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)UNK,-1.4342827767475534
+18,factor(genotype.M01)TT,1.4794338958980728
+18,factor(genotype.M02)TC,-3.5329978820049868
+18,factor(genotype.M02)TT,-0.7193686197879032
+18,factor(genotype.M03)TT,-2.137191402530916
+18,factor(genotype.M04)CC,3.4471682645781314
+18,factor(genotype.M05)CT,1.2782598911380985
+18,factor(genotype.M05)TT,1.655095621981023
+18,factor(genotype.M07)GA,-3.1957593291268163
+18,factor(genotype.M09)CT,-0.014581964494061747
+18,factor(genotype.M09)TT,1.5698304005442876
+18,factor(genotype.M12)CT,8.25510310163939
+18,factor(genotype.M16)TT,-1.8173897928522074
+18,factor(genotype.M21)TT,-2.3542435155608197
+18,factor(genotype.M22)CT,-1.2756497811769953
+18,factor(genotype.M22)TT,-1.071306389452865
+18,factor(genotype.M22)UNK,4.3040046167822705
+18,expressions.GRIA1,4.870903720921906
+18,expressions.GRIN2A,-1.9520959013902504
+18,expressions.GRIN2B,-3.0462125213358315
+18,expressions.GRM5,1.8043837833599927
+18,expressions.GRM7,0.45921500937115994
+18,expressions.GRIK1,3.135608138510954
+18,expressions.DRD4,-1.0948930723872565
+18,expressions.GABRB3,-2.1054048515066173
+18,expressions.GABRG3,0.20380064602163847
+18,expressions.GABRA5,0.5747796398661215
+18,`concentrations.5-HIAA`,0.703280805427337
+18,concentrations.Glutatamate,0.03456529689700166
+18,concentrations.GABA,-0.0026426005636955886
+18,`cprs-r.Hyperactivity`,-0.10217841581779304
+18,`pharma.pre.Behavorial Problem`,0.006048041882283861
+18,pharma.pre.Inattention,0.3247333732867186
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M01)CT,3.4348672920534256
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M01)TT,1.5756717381636098
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M02)TC,-0.8409628495241218
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M03)TC,-4.304197285822717
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)CA,2.5091460411263893
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)CC,2.9365010455509695
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M04)UNK,-8.588709283996941
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M05)CT,0.5297082179417336
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M05)TT,0.9307428690735118
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M06)CT,4.4671981928692315
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M09)CT,-1.7508745203462304
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M10)AG,-1.777757682088381
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M10)GG,-3.0606415679556735
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M12)TT,1.433036641282891
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M16)CT,-6.5339344280687195
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M16)TT,-0.39251909918250594
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M21)CT,-0.03488779144919036
+18,factor(pharma.Drug)Methylphenidate:factor(genotype.M21)UNK,-1.000112146821473
+19,expressions.GRIK1,0.6902701295553859
+19,`cprs-r.ADHD Index`,0.05349431363616837
+20,`pharma.pre.ADHD Index`,0.05370798957461168
+20,expressions.GRM7,-0.1583910523342355
+20,expressions.GRIK1,0.27001149864451096
+20,expressions.DRD4,-0.4243167335064693
+20,expressions.GABRB3,-0.14945577759925352
+20,expressions.GABRG3,-0.2159737466581649

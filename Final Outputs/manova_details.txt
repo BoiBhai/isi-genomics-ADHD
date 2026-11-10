@@ -1,0 +1,26 @@
+Call:
+   manova(as.matrix(manova_data %>% select(-Type)) ~ Type, data = manova_data)
+
+Terms:
+                              Type Residuals
+expressions.GRIA1             1845      1649
+expressions.GRIN2A            2087      1396
+expressions.GRIN2B            1698      1823
+expressions.GRM5              4736      1778
+expressions.GRM6              2312      1007
+expressions.GRM7              1484      1965
+expressions.GRIK1              171       616
+expressions.DAT                 15       903
+expressions.DRD4               356       384
+expressions.GABRB3           13134       645
+expressions.GABRG3            6796      2922
+expressions.GABRA5            3983       686
+concentrations.Serotonin     10092     33881
+concentrations.5-HIAA            1       135
+concentrations.Glutatamate    7197     15966
+concentrations.Dopamine       1124     24866
+concentrations.GABA        4194052   3065823
+Deg. of Freedom                  1       698
+
+Residual standard errors: 1.53703 1.414217 1.615947 1.596012 1.200851 1.677693 0.9392542 1.137593 0.7416048 0.9610521 2.046168 0.9915599 6.967039 0.440515 4.782645 5.96868 66.27441
+Estimated effects may be unbalanced
